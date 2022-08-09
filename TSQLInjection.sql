@@ -5,5 +5,5 @@ GO
 CREATE PROCEDURE TSQLInjection
 AS
 BEGIN --Template
-SELECT 1 
+SELECT 111 
 END --Template
