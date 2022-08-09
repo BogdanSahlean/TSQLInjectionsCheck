@@ -1,0 +1,1 @@
+--It checks principals (logins, roles, users, certificates, etc.) having some direct acces perm to tables and views.
