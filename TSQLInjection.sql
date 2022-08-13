@@ -5,6 +5,6 @@ GO
 CREATE PROCEDURE TSQLInjection
 AS
 BEGIN --Template
-SELECT 21330
+SELECT 21330 333
 END --Template
 hhh
